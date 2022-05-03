@@ -19,9 +19,9 @@ Install my-project with pip
   $ py || python || python3 -m venv venv (create virtual env)
   
   # Activate virtual env
-  $ source venv\bin\activate	   For Unix & mac
-  $ .\venv\Scripts\activate		   For Windows
-  $ source venv/Scripts/activate   For Windows using git bash
+  $ source venv\bin\activate	   #For Unix & mac
+  $ .\venv\Scripts\activate		   #For Windows
+  $ source venv/Scripts/activate   #For Windows using git bash
 
   # Install packages
   $ pip install -r requirements.txt
