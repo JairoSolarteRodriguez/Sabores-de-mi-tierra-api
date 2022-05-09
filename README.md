@@ -32,7 +32,7 @@ Install my-project with pip
   $ py || python || python3 manage.py migrate
 
   # Run the project in development mode
-  $ py || python || python3 runserver
+  $ py || python || python3 manage.py runserver
 ```
 Now go to: http://127.0.0.1:8000
 
