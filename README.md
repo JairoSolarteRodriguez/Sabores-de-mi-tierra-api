@@ -27,8 +27,8 @@ Install my-project with pip
   $ pip install -r requirements.txt
 
   # Migrate models to database
-  $ py || python || python3 manage.py makemigrations
   $ cd sabores_de_mi_tierra
+  $ py || python || python3 manage.py makemigrations
   $ py || python || python3 manage.py migrate
 
   # Run the project in development mode
